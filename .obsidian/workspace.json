@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "Books/Haptics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Testing"
+              "title": "Haptics"
             }
           }
         ]
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,8 +192,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b181cab37668ba2",
+  "active": "0f98434880e8c1a3",
   "lastOpenFiles": [
-    "Testing.md"
+    "Books",
+    "Books/Haptics.md"
   ]
 }
