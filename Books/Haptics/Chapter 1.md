@@ -18,6 +18,10 @@
 	- Transmits info about pressure/contact on skin surface
 	- Houses glands that keep skin moist, which aid in grasping
 - *Tactile receptors* are all over the body and alert us about events on skin surface
+- *Slow-adapting (SA) mechanoreceptors* - respond to when skin is moving and during period of sustained indentation
+- *Fast-adapting (FA) mechanoreceptors* - respond when skin is actively indented, but no response when movement of skin stops
 - *Receptive field* - responsive area of skin
-	- Type I - 2-8 mm in diameter; 
-	- Type II - 10-100 mm in diameter;
+	- Type I - 2-8 mm in diameter; vibration detection between 0.4 - 3 Hz for SA mechanoreceptors, while for FA, it's 1.5-100 Hz
+	- Type II - 10-100 mm in diameter; vibration detection for FA is 35 - 1000 Hz
+- Fingertips are more sensitive to stimuli due to having more mechanoreceptors than the palm
+- Type I SA is useful for fine spatial features (edges/curves of objects) while 
