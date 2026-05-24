@@ -1,4 +1,11 @@
 - Kinesthetics info comes from sensory receptors in muscles
 	- Enable us to perceive direction, amplitude, and velocity of limb movements
 	- Also enable us to see changes in limb position
-- Kinesthetic recep
+- Kinesthetic receptors are essential to normal function
+	- Example: An individual had all tactile/kinesthetic feedback eliminated, but was able to teach himself to do tasks by thinking about the movement, and then looking at the moving limb
+		- Very deliberate and conscious about this
+- Kinesthetic sense is involved in perception of force
+- For tactile system, higher densities of mechanoreceptors are associated with superior tactile acuity
+- Other species utilize whisker system to sense stimuli through contact
+	- Example: rats use it to explore environment
+	- 
