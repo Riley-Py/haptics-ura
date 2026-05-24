@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f98434880e8c1a3",
+  "active": "1b181cab37668ba2",
   "lastOpenFiles": [
     "Books/Haptics",
     "Books",
