@@ -1,5 +1,3 @@
-
-## Chapter 1
 - Haptics comes from Greek, meaning "able to grasp/percieve"
 - Involves two senses: *touch* and *kinesthesia* (limb position and movement)
 - *Mechanoreceptors* - tactile cues from stimulation of sensors in skin
@@ -13,4 +11,5 @@
 	3. Pain
 	4. Itch
 - Touch/temperature provide info about temporal/spatial events on body
-- Pain protects against potential/a
+- Pain protects against potential/actual damage
+- Itch was thought of to be a part of the pain modality, but now is considered by itself
