@@ -24,4 +24,7 @@
 	- Type I - 2-8 mm in diameter; vibration detection between 0.4 - 3 Hz for SA mechanoreceptors, while for FA, it's 1.5-100 Hz
 	- Type II - 10-100 mm in diameter; vibration detection for FA is 35 - 1000 Hz
 - Fingertips are more sensitive to stimuli due to having more mechanoreceptors than the palm
-- Type I SA is useful for fine spatial features (edges/curves of objects) while 
+- Type I SA is useful for fine spatial features (edges/curves of objects) while Type I FA respond when there is movement between the skin
+- *C-tactile (CT) afferents* - responds to slow, gentle movements across the skin
+
+#haptics

@@ -1,0 +1,4 @@
+- Kinesthetics info comes from sensory receptors in muscles
+	- Enable us to perceive direction, amplitude, and velocity of limb movements
+	- Also enable us to see changes in limb position
+- Kinesthetic recep
