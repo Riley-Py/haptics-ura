@@ -8,4 +8,12 @@
 - For tactile system, higher densities of mechanoreceptors are associated with superior tactile acuity
 - Other species utilize whisker system to sense stimuli through contact
 	- Example: rats use it to explore environment
-	- 
+	- Important to understand for artificial sensing systems (prosthetic hands/robots)
+- There are warm and cold thermoreceptors across our skin that can detect temperature conditions
+	- Cold receptors outnumber warm receptors
+	- If temperature of skin is above 43 $\degree C$ or below 15 $\degree C$, pain receptors are activated
+	- Area on back of hand and the thumb are the most sensitive to temperature
+- Chemical compounds can be perceived as hot or cold
+	- Menthol is cool to skin; used for cooling
+	- Capsaicin is hot to skin
+- 
