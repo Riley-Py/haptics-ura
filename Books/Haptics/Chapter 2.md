@@ -25,4 +25,12 @@
 - Human hand including wrist has 21 degrees of freedom of movement
 	- Movement of fingers aren't completely independent
 - *Precision grip* - allows the thumb to contact tips of fingers
-	- Ess
+	- Essential for handling small objects
+## Sensorimotor Control of Hand
+- *Action for perception* - interpreting world outside bodies
+- *Perception for action* - control manual interactions with the world
+- *Safety margin* - difference between force which object begins to slip between fingers and force for grasping
+	- Too large - muscles controlling fingers fatigues
+	- Too small - object may slip
+- With no tactile feedback, we can't control grip forces and thus, can have difficulty performing basic functions like picking up paper clips
+#haptics 
