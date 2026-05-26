@@ -4,8 +4,12 @@
 	- *Phasic*: produces selective increases in responses; involved in long-term performance
 	- *Tonic*: produces more enduring and less discriminate increase in responses; involved with disengagement from tasks and looking for other tasks
 - Pupil diameter is correlated with this system
-	- Increased pupil diameter is correlated with the tonic response
+	- Increased pupil diameter is correlated with the tonic response in other animals
 - Study used gambling to investigate this behaviour in humans
 	- Found that people alternated between choosing slot machine with highest estimated current payoff (exploitation) and choosing slot machines with lower expected payoff (exploration)
 	- Exploration was preceded by exploration successively
-	- Found that pupil diamter increased with exploration than exploitation
+	- Found that pupil diameter increased with exploration than exploitation
+	- Also found that people with larger pupil diameter made more exploratory choices
+- Pupil diameter is predictive of choice strategy
+## Useful?
+- Could be, as we can investigate pupil size whenever we have a new task and associate pupil size of participants with either high-effort tasks and low-effort tasks
