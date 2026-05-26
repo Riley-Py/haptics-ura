@@ -13,3 +13,5 @@
 - Pupil diameter is predictive of choice strategy
 ## Useful?
 - Could be, as we can investigate pupil size whenever we have a new task and associate pupil size of participants with either high-effort tasks and low-effort tasks
+
+#article

@@ -1,0 +1,4 @@
+- *Boredom* - people experiencing a slow passage of time and lack of interest in current activities
+- Three categories have been used to cause boredom
+	- *Repetitive kinesthetics* - writing the same word, screwing bolts/nuts, data entry, copying references, tracing spirals, connecting shapes by drawing lines between them
+	- *Simple cognitive* - Tetris, proof-reading address labels, classifying objects on whether they are man-made, basic addition pro
