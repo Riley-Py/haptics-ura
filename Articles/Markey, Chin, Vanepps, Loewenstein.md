@@ -6,4 +6,6 @@
 - Emotional induction has two criteria
 	- *Intensity* - high intensity means that people experienced boredom
 	- *Discreteness* - experienced boredom more than other emotions
-- 
+- Study found that all six computerized tasks gave more boredom than comparison task, which was watching *Planet Earth*
+	- Used as it was shown to create interest without creating negative/positive emotions unrelated to boredom
+- Peg-turning task was the most boring activity out of the bunch
