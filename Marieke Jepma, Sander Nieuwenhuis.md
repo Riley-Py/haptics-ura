@@ -1,0 +1,5 @@
+- Investigates exploiting options and exploring new ones
+	- Plays important role in changing environments
+- Are controlled by two modes: *phasic* and *tonic*
+	- *Phasic*: produces selective increases in responses
+	- *Tonic*
