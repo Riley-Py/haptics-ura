@@ -6,3 +6,6 @@
 - Pupil diameter is correlated with this system
 	- Increased pupil diameter is correlated with the tonic response
 - Study used gambling to investigate this behaviour in humans
+	- Found that people alternated between choosing slot machine with highest estimated current payoff (exploitation) and choosing slot machines with lower expected payoff (exploration)
+	- Exploration was preceded by exploration successively
+	- Found that pupil diamter increased with exploration than exploitation
