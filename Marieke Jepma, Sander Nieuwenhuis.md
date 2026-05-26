@@ -1,5 +1,8 @@
 - Investigates exploiting options and exploring new ones
 	- Plays important role in changing environments
 - Are controlled by two modes: *phasic* and *tonic*
-	- *Phasic*: produces selective increases in responses
-	- *Tonic*
+	- *Phasic*: produces selective increases in responses; involved in long-term performance
+	- *Tonic*: produces more enduring and less discriminate increase in responses; involved with disengagement from tasks and looking for other tasks
+- Pupil diameter is correlated with this system
+	- Increased pupil diameter is correlated with the tonic response
+- Study used gambling to investigate this behaviour in humans
