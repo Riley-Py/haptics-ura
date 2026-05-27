@@ -9,3 +9,11 @@
 - Study found that all six computerized tasks gave more boredom than comparison task, which was watching *Planet Earth*
 	- Used as it was shown to create interest without creating negative/positive emotions unrelated to boredom
 - Peg-turning task was the most boring activity out of the bunch
+	- Highly repetitive
+	- Not challenging
+	- Feeling meaningless
+- Boredom could be created due to the factors that peg-turning have
+
+## Useful?
+- Very, as we can create tasks that are like the peg-turning task to induce the boredom, and then integrate that with the pupil task
+#article 
