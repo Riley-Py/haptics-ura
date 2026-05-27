@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Articles/Markey, Chin, Vanepps, Loewenstein.md",
+                "file": "Articles/Gover, Smith, O'Shea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Markey, Chin, Vanepps, Loewenstein"
+              "title": "Gover, Smith, O'Shea"
             }
           }
         ],
@@ -209,8 +209,9 @@
   },
   "active": "9b919c653b6ad758",
   "lastOpenFiles": [
-    "Articles/Marieke Jepma, Sander Nieuwenhuis.md",
     "Articles/Markey, Chin, Vanepps, Loewenstein.md",
+    "Articles/Gover, Smith, O'Shea.md",
+    "Articles/Marieke Jepma, Sander Nieuwenhuis.md",
     "Books/Haptics/Chapter 1.md",
     "Books/Haptics/Chapter 2.md",
     "Articles",
