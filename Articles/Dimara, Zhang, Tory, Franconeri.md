@@ -15,4 +15,5 @@
 	- Group decision process was supported only by discussions or spreadsheets
 ### Decision Makers VS. Data Analysts
 - Data analysts presenting data to stakeholders can be confusing 
-- Data analysts presenting data can be 
+- Data analysts presenting data can be too verbose
+- Data analysts presenting data lacked qualitative nuance behind the data
