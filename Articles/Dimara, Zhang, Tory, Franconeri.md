@@ -1,1 +1,2 @@
-- Visualizations influence decisions that affects organization's
+- Visualizations influence decisions that affects organization's structure, processes, outcomes
+- Decision-making is the goal of visualization, but the support of those decisions through visualizations can be an issue
