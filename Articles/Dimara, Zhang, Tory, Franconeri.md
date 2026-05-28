@@ -3,6 +3,12 @@
 - Tools support *multi-attribute choice task*, such as decision trees and querying
 - Evaluations depend solely on visual analytic tasks rather than decision tasks
 - The question the study was aiming to answer was *Who are the organizational decision makers and what are their data visualization needs?*
-- Results from experts
+- Results from experts - survey results
 	- Found that decision makers did their own data analysis themselves
-	- Liked flow charts and pie 
+	- Liked flow charts and pie charts the best
+	- High use of spreadsheets
+	- Want easy use of tools to create stories with the data
+- Results from experts - Interviews
+	- Need to involve more data and visual analysis in their decision process
+	- Also noted the importance of time
+	- Workflow was driven by questions that translated to actions in visualizations/decision-making
