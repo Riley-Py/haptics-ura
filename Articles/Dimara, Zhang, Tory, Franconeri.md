@@ -12,3 +12,7 @@
 	- Need to involve more data and visual analysis in their decision process
 	- Also noted the importance of time
 	- Workflow was driven by questions that translated to actions in visualizations/decision-making
+	- Group decision process was supported only by discussions or spreadsheets
+### Decision Makers VS. Data Analysts
+- Data analysts presenting data to stakeholders can be confusing 
+- Data analysts presenting data can be 
