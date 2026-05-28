@@ -1,2 +1,4 @@
 - Visualizations influence decisions that affects organization's structure, processes, outcomes
 - Decision-making is the goal of visualization, but the support of those decisions through visualizations can be an issue
+- Tools support *multi-attribute choice task*, such as decision trees and querying
+- Evaluations depend
