@@ -1,1 +1,1 @@
-- 
+- Visualizations influence decisions that affects organization's
