@@ -1,0 +1,7 @@
+- Make presentation on distractor tasks
+	- Justify amount
+	- Justify the tasks themselves with literature
+	- Talk about how to design them and integrate them into situational awareness study
+- Talk about papers that I read about
+- Present the new HX Labs website (tentative)
+- Set up meeting with Schneider on that week before July 2nd meeting
