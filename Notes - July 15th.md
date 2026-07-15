@@ -1,7 +1,8 @@
 - Tasks that use working memory versus other forms of memory
-- Distribution of social interactions of text versus in-person
+- Distribution of social interactions of text versus in-person****
 - One social distraction and one individual, work-related distraction
 - Find from table 1 of Technoference HCI studies
 - Chatbot - distraction task
 - Social media - leave it to people
-- 
+- Digitally filling out forms - potential distractor task
+- Virtual tasks enable data collection easily
