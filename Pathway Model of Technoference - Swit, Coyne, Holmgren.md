@@ -1,0 +1,3 @@
+- *FOMO* - fear of missing out; missing out of experiences and strong desire to stay connected
+	- Could create a distractor that people can't miss out on - i.e. an incentive or a game
+- 
