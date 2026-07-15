@@ -1,2 +1,9 @@
 - *Social facilitation* - presence of others serve as a source of arousal
-	- Can be used to create a simulation where 
+	- Impairs people in cognitively demanding tasks
+	- Can be used to create a simulation where someone (AI) can talk with someone else
+- Diagram of distractions in workplace
+	- ![[Pasted image 20260714203233.png]]
+	- Can use model to aid in creating distraction
+- More involvement of working memory, greater the possibility of interference if extraneous auditory stimuli are dynamic
+	- Therefore, for the distraction task, the auditory cues must vary, and not be consistent/predictable
+- 
