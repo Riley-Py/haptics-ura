@@ -1,1 +1,1 @@
-- Task -vigilant focus owrk is more susce
+- Task-vigilant focus work is more susceptible to continuous, complex-changing state auditory distractions (overheard speech) than frequent, unpredictable noise
