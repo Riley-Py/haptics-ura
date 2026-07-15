@@ -1,0 +1,2 @@
+- *Social facilitation* - presence of others serve as a source of arousal
+	- Can be used to create a simulation where 
