@@ -6,4 +6,6 @@
 	- Can use model to aid in creating distraction
 - More involvement of working memory, greater the possibility of interference if extraneous auditory stimuli are dynamic
 	- Therefore, for the distraction task, the auditory cues must vary, and not be consistent/predictable
-- 
+- Increase in number of distractions results in the time that it takes to get back on task increasing; creates decrease in motivation/mental fatigue
+- Long speech messages have detrimental effect on short-term memory performance; longer response times, increased cognitive demands
+	- Can have an auditory distractor with dictation
