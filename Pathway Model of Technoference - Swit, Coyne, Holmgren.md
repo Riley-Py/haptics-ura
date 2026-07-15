@@ -1,3 +1,7 @@
 - *FOMO* - fear of missing out; missing out of experiences and strong desire to stay connected
 	- Could create a distractor that people can't miss out on - i.e. an incentive or a game
+- Frequent/poorly timed interruptions affect children's perceptions of parental availability and responsiveness
+	- Make distractions that are frequent and are ill-timed 
+- Diagram for characteristics and measurement for distraction: 
+	- ![[Pasted image 20260714210414.png]]
 - 
